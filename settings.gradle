@@ -1,3 +1,7 @@
+/*
+ * MIT License
+ * Copyright (c) 2026 Developer
+ */
 pluginManagement {
     repositories {
         maven { url = 'https://maven.neoforged.net/releases' }
